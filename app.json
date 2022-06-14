@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "project-74",
+    "slug": "snack-56320999-c9ea-4383-946b-29d6b3086708",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.testuser.Project_74"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
